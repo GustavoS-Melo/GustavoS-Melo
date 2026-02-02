@@ -22,6 +22,6 @@ Projetos em destaque
 Os repositórios fixados abaixo representam os projetos que melhor demonstram minhas habilidades técnicas hoje.
 
 Contato  
-Meu site: gustavodev.dev.br
-LinkedIn: https://www.linkedin.com/in/gustavo-melo-387749302/
+Meu site: https://www.gustavodev.dev.br/gustavo/ </br>
+LinkedIn: https://www.linkedin.com/in/gustavo-melo-387749302/ </br>
 Email: dev.gustavo97@gmail.com
