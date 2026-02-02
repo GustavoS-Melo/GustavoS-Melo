@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá, eu sou o Gustavo Melo
 
-<!--
-**GustavoS-Melo/GustavoS-Melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor front-end com foco em criar interfaces modernas, bem estruturadas e funcionais. Tenho interesse em escrever código limpo, reutilizável e em constante evolução, sempre buscando melhorar a experiência do usuário e a qualidade das aplicações.
 
-Here are some ideas to get you started:
+Atualmente utilizo principalmente tecnologias do ecossistema JavaScript, tanto no front-end quanto em integrações com o back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias que utilizo no dia a dia:
+- JavaScript (ES6+)
+- HTML5 e CSS3
+- React
+- Angular
+- Tailwind CSS
+- Node.js
+- Git e GitHub
+
+Sobre mim  
+Gosto de aprender na prática, entender como as coisas funcionam por baixo dos panos e evoluir um pouco todos os dias como desenvolvedor. Me interesso por boas práticas, organização de projetos e soluções simples para problemas reais.
+
+Neste GitHub você vai encontrar projetos de estudo, prática e aplicações que refletem meu momento atual como desenvolvedor front-end.
+
+Projetos em destaque  
+Os repositórios fixados abaixo representam os projetos que melhor demonstram minhas habilidades técnicas hoje.
+
+Contato  
+Meu site: gustavodev.dev.br
+LinkedIn: https://www.linkedin.com/in/gustavo-melo-387749302/
+Email: dev.gustavo97@gmail.com
