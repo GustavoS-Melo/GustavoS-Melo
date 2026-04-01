@@ -5,8 +5,7 @@ Sou desenvolvedor front-end com foco em criar interfaces modernas, bem estrutura
 Atualmente utilizo principalmente tecnologias do ecossistema JavaScript, tanto no front-end quanto em integrações com o back-end.
 
 Tecnologias que utilizo no dia a dia:
-- JavaScript (ES6+)
-- HTML5 e CSS3
+- JavaScript
 - React
 - Angular
 - Tailwind CSS
